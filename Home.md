@@ -1,4 +1,4 @@
-### Warning! I this is an active incident, call IT Security Hotline Now. 
+**Warning!** If this is an active incident, call IT Security Hotline Now. 
 
 ## What is this guide?
 This guide explains what to do if you suspect a security incident at Dia Healthcare. It is written for all employees, contractors, and vendors who access company systems, data, or facilities.
