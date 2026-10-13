@@ -1,5 +1,5 @@
 # What Not to Do 
-# What NOT to Do
+
 
 | Do NOT | Why |
 |---|---|
@@ -12,5 +12,5 @@
 | Try to fix it yourself | May make the incident worse |
 | Wait to report | Every minute counts |
 
-!!! warning "The most common mistake"
+**Warning** "The Most Common Mistake"
     Employees often try to fix the problem themselves before reporting. This destroys evidence and delays response. **Report first. Fix later.**
