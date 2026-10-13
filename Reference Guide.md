@@ -1,8 +1,8 @@
 # Quick Reference Card
 
-**Danger** "Active incident? Call the IT Security Hotline Now
+**Active incident? Call the IT Security Hotline Now**
 
-## If you suspect a security incident
+## If You Suspect a Security Incident
 1. **STOP** — Do not continue using the device or system
 2. **DO NOT DELETE** — Preserve all evidence
 3. **REPORT** — Call IT Security immediately for urgent incidents
@@ -10,7 +10,7 @@
 5. **WAIT** — Do not try to fix it yourself
 6. **COOPERATE** — Work with the security team
 
-## What NOT to do
+## What NOT to Do
 - Do not power off the device
 - Do not delete emails or files
 - Do not forward suspicious emails
