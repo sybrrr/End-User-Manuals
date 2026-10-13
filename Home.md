@@ -1,15 +1,9 @@
-# Warning! I this is an active incident, call IT Security Hotline Now. 
-## What is this Guide?
-This guides explains what to do if you suspect a securityincident at Dia Behavioral Healthcare.
-It is written for all employess, contract and vendors who access company systems, data or facilities. 
-# Security Incident Response Guide for Employees
-### Warning "If this is an active incident, call the IT Security Hotline now: Do not wait. Do not email. Call.
+### Warning! I this is an active incident, call IT Security Hotline Now. 
 
 ## What is this guide?
-
 This guide explains what to do if you suspect a security incident at Dia Healthcare. It is written for all employees, contractors, and vendors who access company systems, data, or facilities.
 
-## Start here
+## Start Here:
 
 | If you need to... | Go to |
 |---|---|
@@ -20,7 +14,7 @@ This guide explains what to do if you suspect a security incident at Dia Healthc
 | Print a one-page reference | [Quick Reference](quick-reference.md) |
 | Fill out a report | [Incident Report Template](templates/incident-report-template.md) |
 
-## Why this matters
+## Why this Matters
 
 Dia Healthcare handles protected health information (PHI) and is subject to HIPAA, SOC 2, and ISO 27001 requirements. A fast, correct response protects patients, preserves our reputation, and keeps us compliant.
 
