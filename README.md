@@ -6,4 +6,3 @@ End-user documentation for internal tools to guide in reporting incidents quickl
 - Report incidents quickly through the right channels
 - Preserve evidence for the security team
 - Understand escalation paths and timelines
-## time off
