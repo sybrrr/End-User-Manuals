@@ -4,13 +4,11 @@ This guides explains what to do if you suspect a securityincident at Dia Behavio
 It is written for all employess, contract and vendors who access company systems, data or facilities. 
 ## Start Here
 # Security Incident Response Guide for Employees
-
-!!! warning "If this is an active incident, call the IT Security Hotline now: [Phone Number]"
-    Do not wait. Do not email. Call.
+** Warning "If this is an active incident, call the IT Security Hotline now: Do not wait. Do not email. Call.**
 
 ## What is this guide?
 
-This guide explains what to do if you suspect a security incident at Acadia Healthcare. It is written for all employees, contractors, and vendors who access company systems, data, or facilities.
+This guide explains what to do if you suspect a security incident at Dia Healthcare. It is written for all employees, contractors, and vendors who access company systems, data, or facilities.
 
 ## Start here
 
@@ -25,7 +23,7 @@ This guide explains what to do if you suspect a security incident at Acadia Heal
 
 ## Why this matters
 
-Acadia Healthcare handles protected health information (PHI) and is subject to HIPAA, SOC 2, and ISO 27001 requirements. A fast, correct response protects patients, preserves our reputation, and keeps us compliant.
+Dia Healthcare handles protected health information (PHI) and is subject to HIPAA, SOC 2, and ISO 27001 requirements. A fast, correct response protects patients, preserves our reputation, and keeps us compliant.
 
-!!! tip "When in doubt, report it."
+** Tip "When in doubt, report it." **
     It is always better to report something that turns out to be nothing than to stay silent about something serious.
