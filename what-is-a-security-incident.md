@@ -28,7 +28,7 @@ Do not delete the suspicious email, file, or message. Do not empty your trash or
 4. What system, device, or data was involved
 5. What you have already done (e.g., disconnected from network)
 6. Who else may be affected
-7. Screenshots (if safe to take — do not click anything else)
+7. Screenshots (if safe to take do not click anything else)
 
 ## Step 5: Preserve Evidence
 
