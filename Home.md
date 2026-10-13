@@ -20,3 +20,26 @@ Dia Healthcare handles protected health information (PHI) and is subject to HIPA
 
 ## Tip "When in doubt, report it."
     It is always better to report something that turns out to be nothing than to stay silent about something serious.
+# What Is a Security Incident?
+
+A **security incident** is any event that threatens the confidentiality, integrity, or availability of company data, systems, or facilities. This includes accidental and intentional actions.
+
+## Examples of security incidents
+
+- A lost or stolen laptop, phone, or USB drive
+- A phishing email that was clicked
+- Unauthorized access to a patient record
+- Malware or ransomware on a company device
+- A misdirected email containing PHI
+- A vendor reporting a breach on their end
+- A stranger in a secure area without a badge
+
+## What is NOT a security incident
+
+| Situation | Where to go instead |
+|---|---|
+| Forgot your password | Self-service password reset |
+| Slow system or application outage | IT Help Desk |
+| Printer will not connect | IT Help Desk |
+| Cannot access a shared drive | IT Help Desk |
+
