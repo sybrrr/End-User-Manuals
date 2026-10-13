@@ -2,9 +2,8 @@
 ## What is this Guide?
 This guides explains what to do if you suspect a securityincident at Dia Behavioral Healthcare.
 It is written for all employess, contract and vendors who access company systems, data or facilities. 
-## Start Here
 # Security Incident Response Guide for Employees
-_ _ Warning "If this is an active incident, call the IT Security Hotline now: Do not wait. Do not email. Call. _ _
+### Warning "If this is an active incident, call the IT Security Hotline now: Do not wait. Do not email. Call.
 
 ## What is this guide?
 
@@ -25,5 +24,5 @@ This guide explains what to do if you suspect a security incident at Dia Healthc
 
 Dia Healthcare handles protected health information (PHI) and is subject to HIPAA, SOC 2, and ISO 27001 requirements. A fast, correct response protects patients, preserves our reputation, and keeps us compliant.
 
-_ _ Tip "When in doubt, report it." _ _
+## Tip "When in doubt, report it."
     It is always better to report something that turns out to be nothing than to stay silent about something serious.
