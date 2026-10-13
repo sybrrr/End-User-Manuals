@@ -1,6 +1,7 @@
 # What to Do If you Suspect an Incident
 
-## Step 1: Stop what you are doing
+## Step 1: Stop what 
+you are doing
 
 Do not continue **using the affected device or system.** If you clicked a link or opened an attachment, **disconnect from the network** (unplug Ethernet, turn off Wi-Fi) but **do not power off the device**.
 
