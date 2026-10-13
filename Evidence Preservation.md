@@ -1,4 +1,4 @@
-# # Evidence Preservation
+# Evidence Preservation
 
 Preserving evidence helps the security team understand what happened and prevent it from happening again.
 
