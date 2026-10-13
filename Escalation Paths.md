@@ -1,6 +1,4 @@
-# Escalation
-
-## Escalation path
+# Escalation Path 
 
 If you do not receive a response within **30 minutes** for an urgent incident:
 
