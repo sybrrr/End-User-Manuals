@@ -12,5 +12,5 @@
 | Try to fix it yourself | May make the incident worse |
 | Wait to report | Every minute counts |
 
-**Warning** "The Most Common Mistake"
+**Warning!** "The Most Common Mistake"
     Employees often try to fix the problem themselves before reporting. This destroys evidence and delays response. **Report first. Fix later.**
