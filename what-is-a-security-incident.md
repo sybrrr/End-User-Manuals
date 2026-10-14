@@ -4,13 +4,13 @@ A **security incident** is any event that threatens the confidentiality, integri
 
 ## Examples of Security Incidents
 
-- A lost or stolen laptop, phone, or USB drive
-- A phishing email that was clicked
-- Unauthorized access to a patient record
-- Malware or ransomware on a company device
-- A misdirected email containing PHI
-- A vendor reporting a breach on their end
-- A stranger in a secure area without a badge
+- A lost or stolen laptop, phone, or USB drive.
+- A phishing email that was clicked.
+- Unauthorized access to a patient record.
+- Malware or ransomware on a company device.
+- A misdirected email containing PHI.
+- A vendor reporting a breach on their system side.
+- A stranger in a secure area without a badge.
 
 ## What is NOT a Security Incident
 
@@ -32,7 +32,7 @@ A **security incident** is any event that threatens the confidentiality, integri
 | **Physical Security** | Unbadged person in a secure area, propped door, missing files | Facilities + IT Security |
 | **Vendor / Third-Party Breach** | Vendor notifies us of a breach affecting our data | IT Security + Compliance |
 
-## Severity levels
+## Severity Levels
 
 | Severity | Definition | Response Time |
 |---|---|---|
