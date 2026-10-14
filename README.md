@@ -1,5 +1,5 @@
 # End-User-Manuals
-End-user documentation for internal tools to guide in reporting incidents quickly through the right channels.
+An end-user guide for reporting and responding to security incidents at DIA Behavioral Healthcare.
 ###  This guide is for employees, contractors, and vendors:
 - Recognize what counts as a security incident.
 - Know exactly what to do and what not to do.
