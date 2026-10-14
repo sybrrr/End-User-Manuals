@@ -6,7 +6,7 @@
 1. **STOP:** Do not continue using the device or system
 2. **DO NOT DELETE:** Preserve all evidence
 3. **REPORT:** Call IT Security immediately for urgent incidents
-4. **DISCONNECT:** — Unplug from network, but do not power off
+4. **DISCONNECT:** Unplug from network, but do not power off
 5. **WAIT:** Do not try to fix it yourself
 6. **COOPERATE:** Work with the security team
 
