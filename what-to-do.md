@@ -4,7 +4,7 @@
 
 Do not continue **using the affected device or system.** If you clicked a link or opened an attachment, **disconnect from the network** (unplug Ethernet, turn off Wi-Fi) but **do not power off the device**.
 
-**Warning!** Powering off the device can destroy evidence that the security team needs.
+**Warning!** Powering off the device can destroy evidence the security team needs.
 
 ## Step 2: Do Not Delete Anything
 
