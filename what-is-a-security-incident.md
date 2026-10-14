@@ -2,7 +2,7 @@
 
 A **security incident** is any event that threatens the confidentiality, integrity, or availability of company data, systems, or facilities. This includes accidental and intentional actions.
 
-## Examples of security incidents
+## Examples of Security Incidents
 
 - A lost or stolen laptop, phone, or USB drive
 - A phishing email that was clicked
@@ -12,9 +12,9 @@ A **security incident** is any event that threatens the confidentiality, integri
 - A vendor reporting a breach on their end
 - A stranger in a secure area without a badge
 
-## What is NOT a security incident
+## What is NOT a Security Incident
 
-| Situation | Where to go instead |
+| Situation | Where to Go |
 |---|---|
 | Forgot your password | Self-service password reset |
 | Slow system or application outage | IT Help Desk |
