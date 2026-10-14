@@ -15,7 +15,7 @@ Do not delete the suspicious email, file, or message. Do not empty your trash or
 | Method | Contact | Use For |
 |---|---|---|
 | **IT Security Hotline** | [Phone Number] | Urgent incidents (ransomware, active breach) |
-| **IT Security Email** | security@acadiahealthcare.com | Non-urgent reports, phishing emails |
+| **IT Security Email** | Non-urgent reports, phishing emails |
 | **IT Help Desk** | [Phone Number] / [Email] | Device issues, access problems |
 | **Compliance Hotline** | [Phone Number] | PHI exposure, privacy concerns |
 | **Your Manager** | Direct contact | All incidents (keep them informed) |
