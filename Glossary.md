@@ -18,7 +18,7 @@
 
 **Malware:** Malicious software designed to damage or gain unauthorized access to systems.
 
-**PHI (Protected Health Information):** Any information about a patient's health, treatment, or payment that can identify them.
+**Protected Health Information (PHI):** Any information about a patient's health, treatment, or payment that can identify them.
 
 **Phishing:** A fraudulent attempt to obtain sensitive information by disguising as a trustworthy entity.
 
