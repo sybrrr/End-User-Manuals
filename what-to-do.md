@@ -22,13 +22,13 @@ Do not delete the suspicious email, file, or message. Do not empty your trash or
 
 ## Step 4: Provide the Following Information
 
-1. Your name and department
-2. What happened (in plain language)
-3. When it happened (date and time)
-4. What system, device, or data was involved
-5. What you have already done (e.g., disconnected from network)
-6. Who else may be affected
-7. Screenshots (if safe to take do not click anything else)
+1. Your name and department.
+2. What happened (in plain language).
+3. When it happened (date and time).
+4. What system, device, or data was involved.
+5. What you have already done (e.g., disconnected from network).
+6. Who else may be affected?
+7. Screenshots (if safe to take do not click anything else).
 
 ## Step 5: Preserve Evidence
 
